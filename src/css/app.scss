@@ -1,0 +1,9 @@
+$bodyColor: #eee;
+$headerColor: #ED5565;
+
+body {
+    background: $bodyColor;
+    h1 {
+        color: $headerColor;
+    }
+}
